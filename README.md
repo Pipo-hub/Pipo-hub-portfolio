@@ -21,7 +21,7 @@
 
 ---
 
-## 📄 About Me
+## About Me
 
 > Aspiring Web Developer with experience in **Laravel, JavaScript, TypeScript, Python, HTML, CSS, MySQL, and MongoDB**. Excited about building responsive and user-friendly websites. Passionate about creating practical solutions that solve real-world problems.
 
