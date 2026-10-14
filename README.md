@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🛒 E-Commerce Website</h3>
+      <h3>E-Commerce Website</h3>
       <p>E-Commerce website for manufacturing products. A complete full-stack application built using the MERN stack with product listings, shopping cart, and checkout functionality.</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
@@ -107,7 +107,7 @@
 ## Tech Stack
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary><b>⚙️ Frameworks & Libraries</b></summary>
+<summary><b>Frameworks & Libraries</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
