@@ -189,9 +189,3 @@ CIIT College of Art and Technology | 2022 – Present
     <img src="https://img.shields.io/badge/LinkedIn-Peter_Rom_Mikael_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pipo-hub&color=blue&style=flat-square&label=Profile+Views" />
-</p>
