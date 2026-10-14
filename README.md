@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter Rom Mikael Santiago
+# Hi, I'm Peter Rom Mikael Santiago
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFF&center=true&vCenter=true&width=435&lines=Aspiring+Web+Developer;MERN+Stack+Enthusiast;Building+Responsive+Websites" alt="Typing SVG" />
@@ -25,17 +25,17 @@
 
 > Aspiring Web Developer with experience in **Laravel, JavaScript, TypeScript, Python, HTML, CSS, MySQL, and MongoDB**. Excited about building responsive and user-friendly websites. Passionate about creating practical solutions that solve real-world problems.
 
-📌 **Open to:** Entry-level Web Development Roles | Internships | Freelance Opportunities
+**Open to:** Entry-level Web Development Roles | Internships | Freelance Opportunities
 
 ---
 
-## 📥 CV
+## CV
 
 [![Download CV](https://img.shields.io/badge/Download_My_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](CV.pdf)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3>💰 GCoins</h3>
+      <h3>GCoins</h3>
       <p>A GCash clone developed using Flutter and MongoDB. Features include money transfers, balance tracking, and transaction history.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>📈 Stockly</h3>
+      <h3>Stockly</h3>
       <p>A stock predictor built using Python and Streamlit. An interactive forecasting tool that utilizes historical stock price data to model and predict future trends.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,7 +86,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3>📚 Student Task Tracker</h3>
+      <h3>Student Task Tracker</h3>
       <p>Student Task Tracker System that allows users (students) to add, edit, and monitor their academic tasks or deadlines with CRUD operations and authentication.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -104,7 +104,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -132,7 +132,7 @@
 </details>
 
 <details>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>Databases</b></summary>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
@@ -141,7 +141,7 @@
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -156,23 +156,23 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuing Organization |
 |---------------|---------------------|
-| 🔐 Intro to Cybersecurity | Cisco |
-| 🛡️ Cybersecurity Fundamentals | IBM SkillsBuild |
+| Intro to Cybersecurity | Cisco |
+| Cybersecurity Fundamentals | IBM SkillsBuild |
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Science in Computer Science**  
-📍 CIIT College of Art and Technology | 2022 – Present
+CIIT College of Art and Technology | 2022 – Present
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:petersantiagorommikael@gmail.com">
